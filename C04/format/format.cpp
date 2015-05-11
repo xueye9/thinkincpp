@@ -72,4 +72,4 @@ int main()
 	T<<s<<endl;
 
 }
-Creating a new branch is quick & simple.
+Creating a new branch is qucik and simple.
