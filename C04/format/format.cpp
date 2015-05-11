@@ -6,6 +6,8 @@ using namespace std;
 
 #define D(x) T << #x <<endl;x
 
+
+// 测试分值
 int main()
 {
 	//string name("fout");
